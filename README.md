@@ -10,3 +10,9 @@
 ![Screenshot_4](https://github.com/smallrus-web/TOIB_PRZ4.2/assets/71121962/b99fc1c6-112b-41a5-a502-23a90cb5acc0)
 ## 5. Настройка утилиты gostsum
 ![Screenshot_1](https://github.com/smallrus-web/TOIB_PRZ4.2/assets/71121962/d9533e52-7b40-47ce-886a-4086912126b7)
+## 6. Настройка утилиты afick
+![Screenshot_5](https://github.com/smallrus-web/TOIB_PRZ4.2/assets/71121962/50a41a9c-5cf1-4bb7-85c8-b548ae16369c)
+![Screenshot_7](https://github.com/smallrus-web/TOIB_PRZ4.2/assets/71121962/a1173081-9c83-4229-874d-95be428cfb87)
+![Screenshot_8](https://github.com/smallrus-web/TOIB_PRZ4.2/assets/71121962/0225242e-9233-4c7a-a631-af69cabe43c2)
+
+
