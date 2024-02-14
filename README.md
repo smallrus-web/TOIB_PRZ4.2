@@ -8,3 +8,5 @@
 ## 4. Включаем режим замкнутой программной среды
 ![Screenshot_10](https://github.com/smallrus-web/TOIB_PRZ4.2/assets/71121962/dde3a797-8f8e-4e99-aadc-eb74aefa3a4b)
 ![Screenshot_4](https://github.com/smallrus-web/TOIB_PRZ4.2/assets/71121962/b99fc1c6-112b-41a5-a502-23a90cb5acc0)
+## 5. Настройка утилиты gostsum
+![Screenshot_1](https://github.com/smallrus-web/TOIB_PRZ4.2/assets/71121962/d9533e52-7b40-47ce-886a-4086912126b7)
